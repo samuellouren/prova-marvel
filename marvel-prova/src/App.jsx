@@ -114,7 +114,7 @@ const MarvelWebsite = () => {
         </div>
       )}
 
-      {/* Seção Hero */}
+      {/* Tela principal */}
       <section id="home" className="min-h-screen flex items-center justify-center bg-gradient-to-br from-black via-gray-900 to-red-900">
         <div className="text-center px-4">
           <h1 className="text-6xl md:text-8xl font-bold mb-6">
@@ -270,13 +270,13 @@ const MarvelWebsite = () => {
               {
                 title: "Novo Filme Marvel em Desenvolvimento",
                 date: "Agosto 2025",
-                preview: "O próximo capítulo do UCM promete aventuras épicas com novos heróis.",
+                preview: "O próximo capítulo do UCM promete cgi horriveis com novos heróis.",
                 color: "border-red-500"
               },
               {
                 title: "Atualização das Séries de Quadrinhos", 
                 date: "Julho 2025",
-                preview: "Descubra as últimas histórias dos seus heróis favoritos.",
+                preview: "Descubra as últimas histórias dos seus heróis favoritos, pois depois dos novos filmes vc não vai gostar mais.",
                 color: "border-blue-500"
               },
               {
@@ -322,7 +322,7 @@ const MarvelWebsite = () => {
           </div>
           
           <p className="text-gray-500">
-            © 2025 Marvel Entertainment. Todos os direitos reservados.
+            © 2025 samuel e bruno enterteimente. Todos os direitos roubados.
           </p>
         </div>
       </footer>
