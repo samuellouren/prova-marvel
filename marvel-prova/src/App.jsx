@@ -322,7 +322,7 @@ const MarvelWebsite = () => {
           </div>
           
           <p className="text-gray-500">
-            © 2025 samuel e bruno enterteimente. Todos os direitos roubados.
+            © 2025 samuel e carlos enterteimente. Todos os direitos roubados.
           </p>
         </div>
       </footer>
